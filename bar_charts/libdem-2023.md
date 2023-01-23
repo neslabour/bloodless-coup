@@ -1,4 +1,4 @@
-## libdem-2023.md
+## Lib Dem Style Charts (2023 Local Elections)
 
 <ul>
   {% for post in site.tags.libdem_chart_2023 %}
