@@ -5,6 +5,7 @@ tags:
  - chart
  - social_media
 summary: Poll by me
-asset: nes-jan5-bfb-poll.png
+asset: "nes-jan5-bfb-poll.png"
+post_asset: nes-jan5-bfb-poll
 size: 712 x 641
 ---

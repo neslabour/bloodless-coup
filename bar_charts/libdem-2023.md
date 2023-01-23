@@ -4,6 +4,6 @@
 
 <ul>
   {% for post in site.tags.libdem_chart_2023 %}
-    <li><img src="/assets/{{ section_tag }}/{{ page.asset }}"><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.summary }}</li>
+    <li><img src="/assets/{{ section_tag }}/{{ page.asset }}"><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.summary }} - {{ post.size }} - {{ post.post_asset }}</li>
   {% endfor %}
 </ul>
