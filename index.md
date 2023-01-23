@@ -6,15 +6,15 @@ This site is a repository of resources to help BANES Labour members and CLPs fig
 
 It is maintained by [North East Somerset CLP](https://www.neslabour.uk), if you have any question or feedback please contact [Richard Stelling](mailto:richard@neslabour.uk).
 
-## Social Media 
+## 🤳🏼 Social Media 
 
 - [Generic Canvassing](/canvassing_social_media/generic.md) 
 
-## Graphs
+## 📊 Graphs
 
 - [Lib Dem Style Charts](/bar_charts/libdem-2023.md)
 
-## Artwork
+## 🖼 Artwork
 
 - [Jacob Rees-Mogg Cartoons](/artwork/mogg.md)
 
