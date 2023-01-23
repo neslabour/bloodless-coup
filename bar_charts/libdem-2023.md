@@ -5,6 +5,6 @@
 <ul>
   {% for post in site.tags.libdem_chart_2023 %}
   {% assign image_path = "/assets/" | append: section_tag | append: "/" | append: post.post_asset %}
-    <li><img style="max-width: 256px" src="{{ image_path }}">{{ post.title }} - {{ post.summary }} - {{ post.size }} - {{ post.post_asset }} - {{ image_path }}</li>
+    <li><img style="max-width: 256px; max-height: 192px" src="{{ image_path }}"><h3>{{ post.title }}</h3> {{ post.summary }} <span>{{ post.size }}</span></li>
   {% endfor %}
 </ul>
