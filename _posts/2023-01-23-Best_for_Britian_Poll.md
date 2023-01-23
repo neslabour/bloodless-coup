@@ -5,6 +5,6 @@ tags:
 	- chart
 	- social_media
 summary: Poll by me
-asset: bfb-2023.png
-size: 
+asset: nes-jan5-bfb-poll.png
+size: 712 x 641
 ---
