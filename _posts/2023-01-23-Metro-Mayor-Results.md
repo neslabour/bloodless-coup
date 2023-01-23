@@ -1,5 +1,5 @@
 ---
-title: Best for Britain Poll - Bath
+title: Time for a change in BANES? Vote Labour...
 tags: 
  - libdem_chart_2023
  - chart
