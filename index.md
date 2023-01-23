@@ -8,11 +8,11 @@ It is maintained by [North East Somerset CLP](https://www.neslabour.uk), if you 
 
 ## 🤳🏼 Social Media 
 
-- [Generic Canvassing](/canvassing_social_media/generic.md) 
+- [Generic Canvassing](/canvassing_social_media/generic.md) ({{ site.tags.generic_social_media_canvas_2023.size }})
 
 ## 📊 Graphs
 
-- [Lib Dem Style Charts](/bar_charts/libdem-2023.md)
+- [Lib Dem Style Charts](/bar_charts/libdem-2023.md) ({{ site.tags.libdem_chart_2023.size }})
 
 ## 🖼 Artwork
 
