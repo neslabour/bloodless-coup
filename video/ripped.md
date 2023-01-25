@@ -13,7 +13,6 @@ These files can be downloaded and shared via Social Media or used in other ways.
   			<source src="{{ image_path }}" type="video/mp4">
     	</video>
     	<p style="vertical-align: top; display: inline;">{{ post.summary }}</p>
-    	<span style="background-color: rgb(225, 236, 244); border-bottom-color: rgba(0, 0, 0, 0); border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; border-bottom-style: solid; border-bottom-width: 1px; vertical-align: top; display: inline;">Size: {{ post.size }}</span>
     	<br>
     	<a href="{{ image_path }}" style="vertical-align: top; display: inline; font-size: 11px; font-weight: 600;" download="{{ post.title | append: ".png" }}">[Download]</a></li>
   {% endfor %}
