@@ -15,6 +15,10 @@ It is maintained by [North East Somerset CLP](https://www.neslabour.uk), if you 
 
 - [Lib Dem Style Charts](/bar_charts/libdem-2023.md) ({{ site.tags.libdem_chart_2023.size }})
 
+## 📼 Videos
+
+- [Videos to Share](/video/ripped.md)
+
 ## 🖼 Artwork
 
 - [Jacob Rees-Mogg Cartoons](/artwork/mogg.md)
