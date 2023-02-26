@@ -20,7 +20,4 @@ It is maintained by [North East Somerset CLP](https://www.neslabour.uk), if you 
 
 - [Videos to Share](/video/ripped.md)
 
-## 🖼 Artwork
-
-- [Jacob Rees-Mogg Cartoons](/artwork/mogg.md)
 
