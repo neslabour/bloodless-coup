@@ -5,7 +5,7 @@ These files can be downloaded and shared via Social Media or used in other ways.
 {% assign section_tag = "buses" %}
 
 <ul>
-  {% for post in site.tags.libdem_chart_2023 %}
+  {% for post in site.tags.buses %}
   {% assign image_path = "/assets/" | append: section_tag | append: "/" | append: post.post_asset %}
     <li style="list-style-type: none; margin: 0; padding: 0; vertical-align: top;">
     	<h3>{{ post.title }}</h3>
