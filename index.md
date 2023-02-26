@@ -10,7 +10,7 @@ It is maintained by [North East Somerset CLP](https://www.neslabour.uk), if you 
 
 - [Generic Canvassing](/canvassing_social_media/generic.md) ({{ site.tags.generic_social_media_canvas_2023.size }})
 - [Register To Vote QR Codes](/qr/register-to-vote.md) ({{ site.tags.qr_register_to_vote.size }})
-- [BANES Buses](/buses/index.md)
+- [BANES Buses](/buses/index.md) ({{ site.tags.buses.size }})
 
 ## 📊 Graphs
 
